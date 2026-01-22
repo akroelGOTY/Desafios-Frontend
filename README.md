@@ -10,9 +10,6 @@ Foco em mobile-first, acessibilidade e performance.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# ferramentas usadas na ajuda do desenvolvimento :
-
-  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/2a5674d0-d619-4ca5-af0e-6e75a94920f8" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/63a086cb-c13f-4d5e-9cac-bb73ab5beb36" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/554b41d7-9aba-41ea-b0a6-219cf87aef5f" />
 
 Newbie Challenges:
 - Html and Css
@@ -22,4 +19,8 @@ Newbie Challenges:
 
 Junior Challenges:
 - Html and Css
-   - Clipboard Landing page
+   - Clipboard Landing page
+
+# ferramentas usadas na ajuda do desenvolvimento :
+
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/2a5674d0-d619-4ca5-af0e-6e75a94920f8" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/63a086cb-c13f-4d5e-9cac-bb73ab5beb36" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/554b41d7-9aba-41ea-b0a6-219cf87aef5f" />
