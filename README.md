@@ -32,7 +32,7 @@ Clone o repositório
 
 ```bash
 
-git clone https://github.com/akroel/seu-projeto.git
+git clone https://github.com/akroelGOTY/seu-projeto.git
 
 ```
 
