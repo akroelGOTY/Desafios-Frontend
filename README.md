@@ -17,7 +17,7 @@ Foco em mobile-first, acessibilidade e performance.
 
 Informações de Deploy
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6bdf0954-c820-46ad-8a7a-c128ed8d4e52/deploy-status)]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d921cb9e-5bab-419d-b1c2-e35a5f9153bf/deploy-status)]()
 
 
 > 🔗 Links
@@ -46,6 +46,7 @@ git clone https://github.com/akroelGOTY/Desafios-Frontend.git
 ```
 
 ⭐ Deixe uma estrela se este projeto te ajudou!
+
 
 
 
