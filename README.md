@@ -1,16 +1,24 @@
 # Frontend Mentor Challenges
 
-<img width="280" height="81" alt="image" src="https://github.com/user-attachments/assets/69256693-619f-4c1c-b203-e1b18419a031" />
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)
 
 Coleção dos meus desafios completados no [Frontend Mentor](https://www.frontendmentor.io) — plataforma perfeita pra grindar HTML, CSS, JS e praticar layouts reais.
 
 Cada desafio é uma página responsiva, pixel-perfect e com código limpo.  
 Foco em mobile-first, acessibilidade e performance.
 
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+Informações de Deploy
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6bdf0954-c820-46ad-8a7a-c128ed8d4e52/deploy-status)]()
+
 
 > 🔗 Links
 
@@ -37,13 +45,9 @@ git clone https://github.com/akroelGOTY/Desafios-Frontend.git
 
 ```
 
-
-
 ⭐ Deixe uma estrela se este projeto te ajudou!
 
-# ferramentas usadas na ajuda do desenvolvimento :
 
-  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/2a5674d0-d619-4ca5-af0e-6e75a94920f8" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/63a086cb-c13f-4d5e-9cac-bb73ab5beb36" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/554b41d7-9aba-41ea-b0a6-219cf87aef5f" />
 
 
 
