@@ -22,7 +22,7 @@ Informações de Deploy
 
 > 🔗 Links
 
-[Menu Challenges]()
+[Menu Challenges](https://menuchallenges.netlify.app)
 
 Newbie Challenges:
 - Html and Css
@@ -46,6 +46,7 @@ git clone https://github.com/akroelGOTY/Desafios-Frontend.git
 ```
 
 ⭐ Deixe uma estrela se este projeto te ajudou!
+
 
 
 
