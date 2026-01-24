@@ -1,7 +1,6 @@
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d9149053-d1da-4728-ba59-560b1877fb63" />
-
 # Frontend Mentor Challenges
 
+<img width="280" height="81" alt="image" src="https://github.com/user-attachments/assets/69256693-619f-4c1c-b203-e1b18419a031" />
 
 Coleção dos meus desafios completados no [Frontend Mentor](https://www.frontendmentor.io) — plataforma perfeita pra grindar HTML, CSS, JS e praticar layouts reais.
 
@@ -37,8 +36,9 @@ git clone https://github.com/akroelGOTY/Desafios-Frontend.git
 ```
 
 
+
+⭐ Deixe uma estrela se este projeto te ajudou!
+
 # ferramentas usadas na ajuda do desenvolvimento :
 
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/2a5674d0-d619-4ca5-af0e-6e75a94920f8" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/63a086cb-c13f-4d5e-9cac-bb73ab5beb36" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/554b41d7-9aba-41ea-b0a6-219cf87aef5f" />
-
-⭐ Deixe uma estrela se este projeto te ajudou!
